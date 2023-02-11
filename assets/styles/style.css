@@ -1,0 +1,9 @@
+/* gallery */
+
+.gallery_block {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 25px;
+    justify-content: space-between;
+}
